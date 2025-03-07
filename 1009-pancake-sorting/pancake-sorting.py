@@ -5,6 +5,10 @@ class Solution(object):
         :rtype: List[int]
         """
         out = []
+
+
+
+        
         n = len(arr)
         for i in range(n-1, -1, -1):
             max_pos = self.get_max_pos(arr[:i+1])
