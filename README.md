@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arpitjaiswal1120/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/arpitjaiswal1120/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arpitjaiswal1120/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/arpitjaiswal1120/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
 |  |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/arpitjaiswal1120/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arpitjaiswal1120/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/arpitjaiswal1120/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
