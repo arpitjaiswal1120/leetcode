@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/arpitjaiswal1120/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/arpitjaiswal1120/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/arpitjaiswal1120/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
