@@ -13,7 +13,7 @@ class Solution(object):
         out = float("inf")
         while(st<=end):
             mid = (st+end)/2
-            print(st, mid, end)
+            #print(st, mid, end)
             if(self.calc_hours(piles, mid) <= h):
                 # current config able to eat banana
                 # reduce k
