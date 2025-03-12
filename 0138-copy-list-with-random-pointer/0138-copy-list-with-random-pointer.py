@@ -13,34 +13,35 @@ class Solution(object):
         :type head: Node
         :rtype: Node
         """
-        node_dict = {}
-        if(head is None):
+        if not head:
             return None
-        node_dict[head] =  Node(head.val)
 
-        t = head
-        while(t):
-            
-            if(t.next is None):
-                # print(t.val, t.next, "skipping")
-                pass
-            elif(t.next in node_dict):
-                # print(t.val, t.next.val, "assigning")
-                node_dict[t].next = node_dict[t.next]
-            else:
-                # print(t.val, t.next.val, "creating and assigning")
-                node_dict[t.next] =  Node(t.next.val)
-                node_dict[t].next = node_dict[t.next]
-            
-            if(t.random is None):
-                pass
-            elif(t.random in node_dict):
-                node_dict[t].random = node_dict[t.random]
-            else:
-                node_dict[t.random] =  Node(t.random.val)
-                node_dict[t].random = node_dict[t.random]
-            
-            t = t.next
-        return node_dict[head]
+        current = head
+
+        # First pass: Create a new node after each original node
+        while current:
+            next_node = current.next
+            current.next = Node(current.val)
+            current.next.next = next_node
+            current = next_node
+
+        # Second pass: Connect random pointers for the copied nodes
+        current = head
+        while current:
+            if current.random:
+                current.next.random = current.random.next
+            current = current.next.next
+
+        # Third pass: Separate the original and copied lists
+        p = head.next
+        temp = p
+        current = head
+        while current and temp:
+            current.next = current.next.next if current.next else current.next
+            temp.next = temp.next.next if temp.next else temp.next
+            current = current.next
+            temp = temp.next
+
+        return p
             
         
