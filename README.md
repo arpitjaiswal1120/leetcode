@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/arpitjaiswal1120/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1009-pancake-sorting](https://github.com/arpitjaiswal1120/leetcode/tree/master/1009-pancake-sorting) |
 ## Two Pointers
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/arpitjaiswal1120/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/arpitjaiswal1120/leetcode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
