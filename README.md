@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/arpitjaiswal1120/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/arpitjaiswal1120/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1009-pancake-sorting](https://github.com/arpitjaiswal1120/leetcode/tree/master/1009-pancake-sorting) |
 | [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/arpitjaiswal1120/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/arpitjaiswal1120/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/arpitjaiswal1120/leetcode/tree/master/0670-maximum-swap) |
+| [0912-random-pick-with-weight](https://github.com/arpitjaiswal1120/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/arpitjaiswal1120/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/arpitjaiswal1120/leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
