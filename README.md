@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/arpitjaiswal1120/leetcode/tree/master/0670-maximum-swap) |
 | [1009-pancake-sorting](https://github.com/arpitjaiswal1120/leetcode/tree/master/1009-pancake-sorting) |
 ## Sorting
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/arpitjaiswal1120/leetcode/tree/master/0907-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/arpitjaiswal1120/leetcode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
