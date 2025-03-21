@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/arpitjaiswal1120/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1009-pancake-sorting](https://github.com/arpitjaiswal1120/leetcode/tree/master/1009-pancake-sorting) |
+| [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,8 +66,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/arpitjaiswal1120/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/arpitjaiswal1120/leetcode/tree/master/0670-maximum-swap) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
