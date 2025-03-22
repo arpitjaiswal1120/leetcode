@@ -4,10 +4,16 @@ class Solution(object):
         :type nums: List[List[int]]
         :rtype: List[int]
         """
+        from collections import deque
         n = len(nums)
-        out = []
-        for i in range(n):
-            for j in range(len(nums[i])):
-                out.append([i+j, -1*i, nums[i][j]])
-        out = sorted(out)
-        return [a[2] for a in out]
+        ans = []
+        q = deque([(0,0)])
+        while(q):
+            r,c = q.popleft()
+            ans.append(nums[r][c])
+            if(c==0) and r+1<n and c<len(nums[r+1]):
+                q.append([r+1, c])
+            if(c+1 < len(nums[r])):
+                q.append([r, c+1])
+            
+        return ans
