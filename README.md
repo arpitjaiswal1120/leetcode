@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/arpitjaiswal1120/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1009-pancake-sorting](https://github.com/arpitjaiswal1120/leetcode/tree/master/1009-pancake-sorting) |
 | [1046-max-consecutive-ones-iii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1539-diagonal-traverse-ii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-pancake-sorting](https://github.com/arpitjaiswal1120/leetcode/tree/master/1009-pancake-sorting) |
+| [1539-diagonal-traverse-ii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/arpitjaiswal1120/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1539-diagonal-traverse-ii](https://github.com/arpitjaiswal1120/leetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Shortest Path
 |  |
 | ------- |
